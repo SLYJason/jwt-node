@@ -1,0 +1,16 @@
+{
+  "name": "jwt-node",
+  "version": "1.0.0",
+  "description": "jwt node authentication basic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jwt",
+    "node",
+    "auth"
+  ],
+  "author": "Luyi Song",
+  "license": "ISC"
+}
