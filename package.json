@@ -4,6 +4,7 @@
   "description": "jwt node authentication basic",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,5 +13,10 @@
     "auth"
   ],
   "author": "Luyi Song",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "nodemon": "^1.17.5"
+  }
 }
