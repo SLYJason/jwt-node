@@ -6,7 +6,7 @@ Inspired by: Brad Traversy, [video](https://www.youtube.com/watch?v=7nafaH9SddU&
 ### Get Started
 
 1. Run `npm start`.
-2. Open postman, navigate to `localhost: 4200'.
+2. Open postman, navigate to `localhost: 4200`.
 
 ### API spec
 Endpoint | Description
